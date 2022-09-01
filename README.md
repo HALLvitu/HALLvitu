@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HALLvitu
+- 👋 Hi, I’m @HALLvitu  //New at it! HELP
 - 👀 I’m interested in ... //i dont know yet what im interested in
 - 🌱 I’m currently learning ... //learing JavaScript
 - 💞️ I’m looking to collaborate on ... //im looking to improve
